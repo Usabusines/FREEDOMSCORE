@@ -56,7 +56,7 @@ const NAO_ESSENCIAL_ITEMS = [
 // Os 3 vídeos de mentalidade não estão mais aqui — eles são entregues
 // pela área de membros do Kiwify, com liberação semanal nativa de lá.
 const VIDEO_LINKS = {
-  hero: null,
+  hero: hXHOIxBUePM,
   pagamento: null,
 };
 
